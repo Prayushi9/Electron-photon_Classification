@@ -1,4 +1,5 @@
 # Electron-photon_Classification
+A deep learning model (CNN) build to classify Electron and Photon using matrices provided of the two classes.
 
 # Dataset Description
 The dataset was provided by the CERN. The files name used here are: 'SingleElectronPt50_IMGCROPS_n249k_RHv1.hdf5' and 'SinglePhotonPt50_IMGCROPS_n249k_RHv1.hdf5'.

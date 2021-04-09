@@ -16,9 +16,8 @@ The dataset was provided by the CERN. The files name used here are: 'SingleElect
     - Input: 49800 matrices of size 32x32 and 2 channels
     - Target: 49800 values of 0 or 1
 
-# ----------KERAS MODEL----------
 # Model Description
-The model and code description of 'keras model' is mentioned in the table below:
+The model and code description are mentioned in the table below:
 <table>
     <tr>
         <td>DL Framework</td>

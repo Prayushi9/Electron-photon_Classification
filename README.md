@@ -89,6 +89,11 @@ The model and code description of 'keras model' is mentioned in the table below:
         <td>0.5589</td>
         <td>0.7235</td>
     </tr>
+        <tr>
+        <td>Test set</td>
+        <td>0.5693</td>
+        <td>0.7266</td>
+    </tr>
     
 </table>
 

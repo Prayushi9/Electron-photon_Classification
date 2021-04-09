@@ -15,6 +15,7 @@ The dataset was provided by the CERN. The files name used here are: 'SingleElect
     - Input: 49800 matrices of size 32x32 and 2 channels
     - Target: 49800 values of 0 or 1
 
+# ----------KERAS MODEL----------
 # Model Description
 The model and code description of 'keras model' is mentioned in the table below:
 <table>
@@ -68,3 +69,25 @@ The model and code description of 'keras model' is mentioned in the table below:
     </tr>    
       
 </table>
+
+# Results
+<table>
+    <tr>
+        <td>Dataset</td>
+        <td>Loss</td>
+        <td>Accuracy</td>
+    </tr>
+        <tr>
+        <td>Train set</td>
+        <td>0.5436</td>
+        <td>0.7344</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Validation set</td>
+        <td>0.5589</td>
+        <td>0.7235</td>
+    </tr>
+    
+</table>
+
